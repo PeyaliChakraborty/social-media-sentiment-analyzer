@@ -1,5 +1,7 @@
 # Social Media Sentiment Analyzer
 
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/PeyaliChakraborty/social-media-sentiment-analyzer/codespaces)
+
 A machine learning project built to analyze and classify the sentiment of social media text (tweets, comments, and posts) into **Positive** or **Negative** categories using Natural Language Processing (NLP).
 
 ---
